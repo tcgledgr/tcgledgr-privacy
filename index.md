@@ -4,7 +4,7 @@ title: TCGLedgr Privacy Policy
 
 # Privacy Policy for TCGLedgr
 
-**Last updated:** July 24, 2026
+**Last updated:** October 6, 2026
 
 TCGLedgr ("the app") is a personal inventory and transaction tracker for trading card
 businesses. This policy explains what data the app handles and how.
